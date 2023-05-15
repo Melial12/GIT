@@ -1,0 +1,5 @@
+Senin : Praktik Pemrograman Python
+Selasa : Analisis dan Perancangan Sistem Informasi
+Rabu : Kewirausahaan
+Kamis :Basis data
+Jumat PBO
